@@ -17,7 +17,7 @@ services:
       rewards-migrations-contacts-x-topic:1:1,
       rewards-migrations-loy-card-topic:1:1,
       rewards-migrations-loy-member-topic:1:1,
-      rewards-migrations-loy-member-tier-topi:1:1,
+      rewards-migrations-loy-member-tier-topic:1:1,
       rewards-migrations-loy-member-x-topic:1:1"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
